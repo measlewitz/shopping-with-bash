@@ -1,6 +1,8 @@
 Directions:
 1. cd into the groceries directory
-2. run check.sh with 2 parameters using ./
+2. run a script with ./
+3. run check.sh with 1 or 2 parameters to find an item
+4. run remove.sh with 1 parameter and confirmation to remove item
 
 Example:
 cd path/to/groceries
